@@ -17,7 +17,7 @@ L'objectif est d'aider les enseignants ou les linguistes à évaluer rapidement 
 ## Exemple de résultat
 Pour un article de presse analysé (source : *Le Monde* / Texte législatif), l'outil a détecté un niveau **Avancé (C1)** avec une moyenne de **35 mots par phrase**.
 
-![Distribution des phrases](Figure_1.png)
+![Distribution des phrases](AnalyseurTAL/Figure_1.png)
 *(Ci-dessus : Distribution de la longueur des phrases générée par l'outil)*
 
 ## Technologies utilisées
