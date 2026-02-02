@@ -27,4 +27,4 @@ Pour un article de presse analysé (source : *Le Quotidien*, ["France : le gouve
 * **IDE** : PyCharm 2025
 
 ---
-*Projet réalisé par Kaibo YANG - 2026*
+*Projet réalisé par Kaibo YANG - Janvier 2026*
