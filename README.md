@@ -26,4 +26,4 @@ Pour un article de presse analysé (source : *Le Monde* / Texte législatif), l'
 * **IDE** : PyCharm 2025
 
 ---
-*Projet réalisé par [你的名字] - 2026*
+*Projet réalisé par Kaibo YANG - 2026*
