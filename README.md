@@ -15,7 +15,8 @@ L'objectif est d'aider les enseignants ou les linguistes à évaluer rapidement 
 * **Visualisation** : Génération d'un histogramme de distribution des longueurs de phrases avec `Matplotlib`.
 
 ## Exemple de résultat
-Pour un article de presse analysé (source : *Le Monde* / Texte législatif), l'outil a détecté un niveau **Avancé (C1)** avec une moyenne de **35 mots par phrase**.
+## Exemple de résultat
+Pour un article de presse analysé (source : *Le Quotidien*, ["France : le gouvernement veut interdire les réseaux sociaux..."](https://lequotidien.lu/monde/france-le-gouvernement-veut-interdire-les-reseaux-sociaux-aux-moins-de-15-ans-des-la-rentree-2026/)), l'outil a détecté un niveau **Avancé (C1)** avec une moyenne de **35 mots par phrase**.
 
 ![Distribution des phrases](AnalyseurTAL/Figure_1.png)
 *(Ci-dessus : Distribution de la longueur des phrases générée par l'outil)*
